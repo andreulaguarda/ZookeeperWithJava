@@ -1,2 +1,2 @@
 # ZookeeperWithJava
-A simple zookeeper program made with Java. My second Java project.
+A really simple zookeeper program made with Java. My second Java project.
